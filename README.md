@@ -58,7 +58,7 @@ This project is a **Task Management RESTful API** built with **Golang**, using *
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/BhagatKaveri/task-management.git
+git clone https://github.com/BhagatKaveri/Task-system.git
 cd task-management-api
 ```
 
